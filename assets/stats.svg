@@ -82,15 +82,9 @@
   <text x="40" y="40" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#2de2ff" opacity="0.75">// SYSTEM STATUS</text>
   <circle cx="1130" cy="35" r="4" fill="#3ddc84"/>
   <text x="1142" y="40" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#3ddc84" opacity="0.85">ONLINE</text>
-  <text x="190.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">13+</text>
-  <text x="190.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">YEARS IN OSS</text>
-  <line x1="340.0" y1="64" x2="340.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
-  <text x="490.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">50+</text>
-  <text x="490.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">REPOSITORIES</text>
+  <text x="340.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">14+</text>
+  <text x="340.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">YEARS IN OSS</text>
   <line x1="640.0" y1="64" x2="640.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
-  <text x="790.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">ELUNA</text>
-  <text x="790.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">CORE MAINTAINER</text>
-  <line x1="940.0" y1="64" x2="940.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
-  <text x="1090.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">LuaJIT</text>
-  <text x="1090.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">PRIMARY STACK</text>
+  <text x="940.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">LuaJIT</text>
+  <text x="940.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">PRIMARY STACK</text>
 </svg>
