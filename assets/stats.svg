@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="132" viewBox="0 0 1280 132" role="img" aria-label="system status">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1118"/><stop offset="1" stop-color="#0a0b10"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2de2ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2de2ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2de2ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="132" fill="url(#bg)"/>
+  <g stroke="#2de2ff" stroke-width="1" opacity="0.05">
+    <line x1="0" y1="0" x2="0" y2="132"/>
+    <line x1="48" y1="0" x2="48" y2="132"/>
+    <line x1="96" y1="0" x2="96" y2="132"/>
+    <line x1="144" y1="0" x2="144" y2="132"/>
+    <line x1="192" y1="0" x2="192" y2="132"/>
+    <line x1="240" y1="0" x2="240" y2="132"/>
+    <line x1="288" y1="0" x2="288" y2="132"/>
+    <line x1="336" y1="0" x2="336" y2="132"/>
+    <line x1="384" y1="0" x2="384" y2="132"/>
+    <line x1="432" y1="0" x2="432" y2="132"/>
+    <line x1="480" y1="0" x2="480" y2="132"/>
+    <line x1="528" y1="0" x2="528" y2="132"/>
+    <line x1="576" y1="0" x2="576" y2="132"/>
+    <line x1="624" y1="0" x2="624" y2="132"/>
+    <line x1="672" y1="0" x2="672" y2="132"/>
+    <line x1="720" y1="0" x2="720" y2="132"/>
+    <line x1="768" y1="0" x2="768" y2="132"/>
+    <line x1="816" y1="0" x2="816" y2="132"/>
+    <line x1="864" y1="0" x2="864" y2="132"/>
+    <line x1="912" y1="0" x2="912" y2="132"/>
+    <line x1="960" y1="0" x2="960" y2="132"/>
+    <line x1="1008" y1="0" x2="1008" y2="132"/>
+    <line x1="1056" y1="0" x2="1056" y2="132"/>
+    <line x1="1104" y1="0" x2="1104" y2="132"/>
+    <line x1="1152" y1="0" x2="1152" y2="132"/>
+    <line x1="1200" y1="0" x2="1200" y2="132"/>
+    <line x1="1248" y1="0" x2="1248" y2="132"/>
+  </g>
+  <g stroke="#ffffff" stroke-width="1" opacity="0.018">
+    <line x1="0" y1="0" x2="1280" y2="0"/>
+    <line x1="0" y1="4" x2="1280" y2="4"/>
+    <line x1="0" y1="8" x2="1280" y2="8"/>
+    <line x1="0" y1="12" x2="1280" y2="12"/>
+    <line x1="0" y1="16" x2="1280" y2="16"/>
+    <line x1="0" y1="20" x2="1280" y2="20"/>
+    <line x1="0" y1="24" x2="1280" y2="24"/>
+    <line x1="0" y1="28" x2="1280" y2="28"/>
+    <line x1="0" y1="32" x2="1280" y2="32"/>
+    <line x1="0" y1="36" x2="1280" y2="36"/>
+    <line x1="0" y1="40" x2="1280" y2="40"/>
+    <line x1="0" y1="44" x2="1280" y2="44"/>
+    <line x1="0" y1="48" x2="1280" y2="48"/>
+    <line x1="0" y1="52" x2="1280" y2="52"/>
+    <line x1="0" y1="56" x2="1280" y2="56"/>
+    <line x1="0" y1="60" x2="1280" y2="60"/>
+    <line x1="0" y1="64" x2="1280" y2="64"/>
+    <line x1="0" y1="68" x2="1280" y2="68"/>
+    <line x1="0" y1="72" x2="1280" y2="72"/>
+    <line x1="0" y1="76" x2="1280" y2="76"/>
+    <line x1="0" y1="80" x2="1280" y2="80"/>
+    <line x1="0" y1="84" x2="1280" y2="84"/>
+    <line x1="0" y1="88" x2="1280" y2="88"/>
+    <line x1="0" y1="92" x2="1280" y2="92"/>
+    <line x1="0" y1="96" x2="1280" y2="96"/>
+    <line x1="0" y1="100" x2="1280" y2="100"/>
+    <line x1="0" y1="104" x2="1280" y2="104"/>
+    <line x1="0" y1="108" x2="1280" y2="108"/>
+    <line x1="0" y1="112" x2="1280" y2="112"/>
+    <line x1="0" y1="116" x2="1280" y2="116"/>
+    <line x1="0" y1="120" x2="1280" y2="120"/>
+    <line x1="0" y1="124" x2="1280" y2="124"/>
+    <line x1="0" y1="128" x2="1280" y2="128"/>
+    <line x1="0" y1="132" x2="1280" y2="132"/>
+  </g>
+  <path d="M18 40 L18 18 L40 18" fill="none" stroke="#2de2ff" stroke-width="2" opacity="0.8"/>
+  <path d="M1262 40 L1262 18 L1240 18" fill="none" stroke="#2de2ff" stroke-width="2" opacity="0.8"/>
+  <path d="M18 92 L18 114 L40 114" fill="none" stroke="#2de2ff" stroke-width="2" opacity="0.8"/>
+  <path d="M1262 92 L1262 114 L1240 114" fill="none" stroke="#2de2ff" stroke-width="2" opacity="0.8"/>
+  <text x="40" y="40" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#2de2ff" opacity="0.75">// SYSTEM STATUS</text>
+  <circle cx="1130" cy="35" r="4" fill="#3ddc84"/>
+  <text x="1142" y="40" font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#3ddc84" opacity="0.85">ONLINE</text>
+  <text x="190.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">13+</text>
+  <text x="190.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">YEARS IN OSS</text>
+  <line x1="340.0" y1="64" x2="340.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
+  <text x="490.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">50+</text>
+  <text x="490.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">REPOSITORIES</text>
+  <line x1="640.0" y1="64" x2="640.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
+  <text x="790.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">ELUNA</text>
+  <text x="790.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">CORE MAINTAINER</text>
+  <line x1="940.0" y1="64" x2="940.0" y2="112" stroke="#56657a" stroke-width="1" opacity="0.4"/>
+  <text x="1090.0" y="92" font-family="'Courier New',monospace" font-size="34" font-weight="bold" text-anchor="middle" fill="#2de2ff">LuaJIT</text>
+  <text x="1090.0" y="112" font-family="'Courier New',monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#56657a">PRIMARY STACK</text>
+</svg>
